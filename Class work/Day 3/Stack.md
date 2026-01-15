@@ -4,3 +4,6 @@
 - 84 - leetcode <b><u>(important)</u></b>
 - Number of greater elements to the right - geeksforgeeks <b><u>(important)</u></b>
 - Striver Monotonic stack
+
+- 1248
+- 3
