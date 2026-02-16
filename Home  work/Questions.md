@@ -10,3 +10,7 @@
     - 219
     - 3355 
     - striver A-Z (8 medium problem and 1 hard problem) -> sliding window
+  
+3. Day 3 -> Take and not Take(Recurssion)
+    - 78
+    - 39
