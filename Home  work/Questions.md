@@ -14,3 +14,8 @@
 3. Day 3 -> Take and not Take(Recurssion)
     - 78
     - 39
+  
+4. Day 4 -> Linked List
+    - 61
+    - 328
+    - 234
